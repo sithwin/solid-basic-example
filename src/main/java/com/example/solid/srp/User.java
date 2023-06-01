@@ -1,4 +1,4 @@
-package com.example.solid.srp.problem;
+package com.example.solid.srp;
 
 public class User {
   public int getId() {
